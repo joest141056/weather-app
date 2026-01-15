@@ -53,3 +53,5 @@ button:hover { background:#357ABD; }
 
 .sun-glow { position:absolute; width:200px; height:200px; border-radius:50%; background:rgba(255,255,0,0.2); top:50px; left:50%; transform:translateX(-50%); animation:glow 3s ease-in-out infinite alternate; z-index:0; }
 @keyframes glow {0%{opacity:0.1;}100%{opacity:0.5;}}
+
+Rename style.cs to style.css
